@@ -19,10 +19,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Deployment
+https://tianpnce.github.io/Horiseon-hw/
 
 ## Note
 I did use the links that where provided by Joe Rehfuss, learning the different semantic elements really helped as well writing better Alt attributes.
 https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.w3schools.com/tags/att_img_alt.asp
 
-My first attempt at deploying did not work so I had to make a new repository.
+My first attempt at deploying did not work so I had to make a new repository. I had a very hard time deploying the page because, the website would not
+show up corretly but Im glad I stuck with it and got it to work.
